@@ -1,0 +1,14 @@
+p{
+
+border-width: 5px 20px 10px 5px; /* top right bottom left */
+/* border-width:medium; */
+ border-style:solid; 
+ /* border-style:dotted;  */
+/* border-style:groove; */
+/* border-style:mixed; */
+border-color:burlywood;
+border-top-style: groove;
+border: 5px solid red;
+border-radius: 5px;
+
+}
