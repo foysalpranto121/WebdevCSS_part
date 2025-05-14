@@ -1,0 +1,21 @@
+h1{
+
+color: red;
+background-color: blue;
+text-align: center;
+font-size: 50px;
+
+
+
+}
+p{
+color: green;    
+text-transform: lowercase;
+font-size: 20px;
+font-weight: bold;
+font-style: italic;
+text-indent:  10px;
+letter-spacing: 2px;
+word-spacing:2px;
+line-height: 30px;
+}
