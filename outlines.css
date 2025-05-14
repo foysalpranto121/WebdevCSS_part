@@ -1,0 +1,12 @@
+p{
+    margin: 40px;
+border:5px solid red;
+/* outline-width:5px;
+outline-style:solid;
+outline-color:blue;
+outline-offset:10px; */
+outline:5px solid blue;
+outline-offset:10px;
+}
+
+
