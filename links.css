@@ -1,0 +1,22 @@
+a{
+color: brown;
+text-decoration: none;
+background-color: lightpink;
+font-size: 50px;
+padding: auto;
+border: 5px solid black;
+
+
+
+}
+a:hover{
+color: white;
+background-color: black;
+}
+a:active{
+color: pink;
+background-color: blue;
+}
+a:visited{
+color: tomato;  
+}
