@@ -1,0 +1,22 @@
+ul {
+    list-style-type: square;
+    list-style-position: inside;
+   
+
+    
+}
+ul {
+
+/* list-style-type: decimal;
+list-style-position: inside;
+list-style-image: url('https://example.com/path/to/image.png'); ; */
+
+list-style: circle inside image('https://example.com/path/to/image.png');
+    padding: 10px;
+    margin: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+
+
+
+}
